@@ -7,7 +7,7 @@
 - 👯 Article Writer and Blogger.
 - 🤵🏻 Public Speaker.
 - 🚴🏿 Cyclist.
-- 🇮🇳  Proud Indian
+- 🇮🇳  Indian
 
 # Achievements
 - 😄 Hall Of fame: Canva, (ISC2), Lululemon, Cybrary, SEEK, and many other programs...
