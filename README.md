@@ -2,8 +2,8 @@
 
 - 👨‍💻 Full-time Security Researcher.
 - 🌱 Open-Source Contributor ( C++, Java, Python or any other projects that are interesting )
-- 🧑🏾‍💻 Curently System and Security Architecture Designer at Pikk.co
-- 🕵🏻‍♀️ Also, Cyber Investigator and Forensic Advisor at The Cyber Agents.
+- 🧑🏾‍💻 Curently System and Security Architect at Pikk.co
+- 🕵🏻‍♀️ Cyber Investigator and Forensic Advisor at <a href = "https://techagents.in/index.php/team1/">The Cyber Agents.</a>
 - 👯 Article Writer and Blogger.
 - 🤵🏻 Public Speaker.
 - 🚴🏿 Cyclist.
