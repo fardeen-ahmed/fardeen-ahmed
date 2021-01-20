@@ -1,7 +1,7 @@
 # Who Am I ? 
 
 - 👨‍💻 Full-time Security Researcher.
-- 🌱 Open-Source Contributor ( C++, Python, BASH or any other projects that are interesting )
+- 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
 - 🧑🏾‍💻 Curently System and Security Architect at Pikk.co
 - 🕵🏻‍♀️ Cyber Investigator and Forensic Advisor at <a href = "https://techagents.in/index.php/team1/">The Cyber Agents.</a>
 - 👯 Article Writer and Blogger.<a href = "https://fardeenahmed410.medium.com/">(View my Writeups)</a>
