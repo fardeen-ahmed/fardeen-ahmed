@@ -4,7 +4,7 @@
 - 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
 - 🧑🏾‍💻 Curently System and Security Architect at Pikk.co
 - 🕵🏻‍♀️ Cyber Investigator and Forensic Advisor at <a href = "https://techagents.in/index.php/team1/">The Cyber Agents.</a>
-- 👯 Article Writer and Blogger.<a href = "https://fardeenahmed410.medium.com/">(View my Writeups)</a>
+- 👯 Article Writer and Blogger.<a href = "https://fardeenahmed410.medium.com/">(My Writeups : Computer Science and Cyber Security)</a>
 - 🤵🏻 Public Speaker.<a href = "https://www.grimm-co.com/grimmcon-0x3-speakers">(GRIMMC0n 0x3)</a>
 - 🚴🏿 Cyclist.
 - 🇮🇳   Indian
