@@ -14,6 +14,8 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Fardeen Ahmed's DEV Community Profile" height="30" width="30">
 </a>
 
+## Skills :
+[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
  <h3> <a href = "https://www.quora.com/q/xutlhmgrwldfziek?invite_code=eYwiDitSr01ZP73W6oGS">Throw Your Doubts Here On Technical and Non-Technical Careers😄.</h3>
  
 # Cyber Security Blogs :
@@ -26,7 +28,6 @@
 <h5><a href="https://fardeenahmed410.medium.com/how-i-landed-on-my-first-bounty-no-spf-dmarc-record-found-2fdfea64cf52">- How I landed on my first bounty : No SPF / DMARC Record Found leading to Social Engineering Attack</a></h5>
 <h5><a href="https://fardeenahmed410.medium.com/my-second-attempt-a-simple-misconfiguration-can-lead-to-lot-of-critical-vulnerabilities-4c856009a734">- My Second Bounty :- A simple misconfiguration can lead to lot of critical vulnerabilities.</a></h5>
 
-![Fardeen's github stats](https://github-readme-stats.vercel.app/api?username=fardeen)
 
 # Achievements
 - 😄 Hall Of Fame: Canva, (ISC2), Lululemon, Cybrary, SEEK, and many other programs...
