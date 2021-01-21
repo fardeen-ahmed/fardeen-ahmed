@@ -1,6 +1,6 @@
-# Who Am I ? 
+# Get to know me 🤖 
 
-- 👨‍💻 Full-time Security Researcher.
+- 😎💻 Full-time Security Researcher.
 - 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
 - 🧑🏾‍💻 Curently System and Security Architect at Pikk.co
 - 🕵🏻‍♀️ Cyber Investigator, Trainer and Digital Forensic Consultant at <a href = "https://techagents.in/index.php/team1/">_The Cyber Agents._</a>
