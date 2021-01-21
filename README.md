@@ -7,12 +7,7 @@
 - 👯 Article Writer and Blogger.<a href = "https://fardeenahmed410.medium.com/">_(My Writeups : Computer Science and Cyber Security)_</a>
 - 🤵🏻 Public Speaker.<a href = "https://www.grimm-co.com/grimmcon-0x3-speakers">_(GRIMMC0n 0x3)_</a>
 - 🚴🏿 Cyclist.
-- 🇮🇳   Indian
-
-## I Code At :
-<a href="https://dev.to/neonabyss">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Fardeen Ahmed's DEV Community Profile" height="30" width="30">
-</a>
+- 🇮🇳  Indian
 
 ## Wanna Ask a Thing ??
  <h3> <a href = "https://www.quora.com/q/xutlhmgrwldfziek?invite_code=eYwiDitSr01ZP73W6oGS">- Throw Your Doubts Here On Technical and Non-Technical Careers😄.</h3>
@@ -27,11 +22,13 @@
 <h5><a href="https://fardeenahmed410.medium.com/how-i-landed-on-my-first-bounty-no-spf-dmarc-record-found-2fdfea64cf52">- How I landed on my first bounty : No SPF / DMARC Record Found leading to Social Engineering Attack</a></h5>
 <h5><a href="https://fardeenahmed410.medium.com/my-second-attempt-a-simple-misconfiguration-can-lead-to-lot-of-critical-vulnerabilities-4c856009a734">- My Second Bounty :- A simple misconfiguration can lead to lot of critical vulnerabilities.</a></h5>
 
-
 # Achievements
 - 😄 Hall Of Fame: Canva, (ISC2), Lululemon, Cybrary, SEEK, and many other programs...
 - 😎 Speaker at GrimmC0n 0x3.
 - ⚡ Work-Time: 300 hours, and still continuing...
 
-
+# Available at :
+<a href="https://dev.to/neonabyss">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Fardeen Ahmed's DEV Community Profile" height="30" width="30">
+</a>
   
