@@ -9,7 +9,7 @@
 - 🚴🏿 Cyclist.
 - 🇮🇳   Indian
 
- <h3> <a href = "https://www.quora.com/q/xutlhmgrwldfziek?invite_code=eYwiDitSr01ZP73W6oGS">Throw Your Doubts Here On Technical and Non-Technical Careers😄.(I answer between : 9:00 P.M to 10:00 P.M) </h3>
+ <h3> <a href = "https://www.quora.com/q/xutlhmgrwldfziek?invite_code=eYwiDitSr01ZP73W6oGS">Throw Your Doubts Here On Technical and Non-Technical Careers😄.</h3>
 
 # Achievements
 - 😄 Hall Of Fame: Canva, (ISC2), Lululemon, Cybrary, SEEK, and many other programs...
