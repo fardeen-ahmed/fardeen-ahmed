@@ -26,6 +26,8 @@
 <h5><a href="https://fardeenahmed410.medium.com/how-i-landed-on-my-first-bounty-no-spf-dmarc-record-found-2fdfea64cf52">- How I landed on my first bounty : No SPF / DMARC Record Found leading to Social Engineering Attack</a></h5>
 <h5><a href="https://fardeenahmed410.medium.com/my-second-attempt-a-simple-misconfiguration-can-lead-to-lot-of-critical-vulnerabilities-4c856009a734">- My Second Bounty :- A simple misconfiguration can lead to lot of critical vulnerabilities.</a></h5>
 
+![Fardeen's github stats](https://github-readme-stats.vercel.app/api?username=fardeen)
+
 # Achievements
 - 😄 Hall Of Fame: Canva, (ISC2), Lululemon, Cybrary, SEEK, and many other programs...
 - 😎 Speaker at GrimmC0n 0x3.
