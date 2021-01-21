@@ -7,7 +7,7 @@
 - 👯 Article Writer and Blogger.<a href = "https://fardeenahmed410.medium.com/">_(My Writeups : Computer Science and Cyber Security)_</a>
 - 🤵🏻 Public Speaker.<a href = "https://www.grimm-co.com/grimmcon-0x3-speakers">_(GRIMMC0n 0x3)_</a>
 - 🚴🏿 Cyclist.
-- 🇮🇳  Indian
+- 🇮🇳   Indian
 
 ## Wanna Ask a Thing ??
  <h3> <a href = "https://www.quora.com/q/xutlhmgrwldfziek?invite_code=eYwiDitSr01ZP73W6oGS">- Throw Your Doubts Here On Technical and Non-Technical Careers😄.</h3>
