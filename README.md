@@ -10,7 +10,7 @@
 - 🇮🇳   Indian
 
 <a href="https://dev.to/neonabyss">
-  <i class="fab fa-dev" title="neonabyss's DEV Community Profile"></i>
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Fardeen Ahmed's DEV Community Profile" height="30" width="30">
 </a>
 
  <h3> <a href = "https://www.quora.com/q/xutlhmgrwldfziek?invite_code=eYwiDitSr01ZP73W6oGS">Throw Your Doubts Here On Technical and Non-Technical Careers😄.</h3>
