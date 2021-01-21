@@ -10,6 +10,10 @@
 - 🇮🇳   Indian
 
  <h3> <a href = "https://www.quora.com/q/xutlhmgrwldfziek?invite_code=eYwiDitSr01ZP73W6oGS">Throw Your Doubts Here On Technical and Non-Technical Careers😄.</h3>
+ 
+# Blogs :
+<h6><a href="https://fardeenahmed410.medium.com/getting-started-as-a-bug-bounty-hunter-things-to-learn-types-of-bugs-report-writing-94500b033c27">1) Getting Started as a Bug-Hunter</a></h6>
+
 
 # Achievements
 - 😄 Hall Of Fame: Canva, (ISC2), Lululemon, Cybrary, SEEK, and many other programs...
