@@ -8,9 +8,6 @@
 - 🤵🏻 Public Speaker.<a href = "https://www.grimm-co.com/grimmcon-0x3-speakers">_(GRIMMC0n 0x3)_</a>
 - 🚴🏿 Cyclist.
 -  🇮🇳  Indian
-
-# Wanna Ask a Thing ??
- <h3> <a href = "https://www.quora.com/q/xutlhmgrwldfziek?invite_code=eYwiDitSr01ZP73W6oGS">- Throw Your Doubts Here On Technical and Non-Technical Careers😄.</h3>
  
 # Cyber Security Blogs :
 <h5><a href="https://fardeenahmed410.medium.com/getting-started-as-a-bug-bounty-hunter-things-to-learn-types-of-bugs-report-writing-94500b033c27">- Getting Started as a Bug-Hunter</a></h5>
@@ -31,4 +28,7 @@
 <a href="https://dev.to/neonabyss">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Fardeen Ahmed's DEV Community Profile" height="30" width="30">
 </a>
+
+# Wanna Ask a Thing ??
+ <h3> <a href = "https://www.quora.com/q/xutlhmgrwldfziek?invite_code=eYwiDitSr01ZP73W6oGS">- Throw Your Doubts Here On Technical and Non-Technical Careers😄.</h3>
   
