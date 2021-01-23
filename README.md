@@ -1,4 +1,4 @@
-# Get to know me 🤖 
+## Get to know me 🤖 
 
 - 😎💻 Full-time Security Researcher.
 - 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
@@ -9,7 +9,7 @@
 - 🚴🏿 Cyclist.
 -  🇮🇳  Indian
 
-#### Wanna Ask a Thing ??
+# Wanna Ask a Thing ??
  <h3> <a href = "https://www.quora.com/q/xutlhmgrwldfziek?invite_code=eYwiDitSr01ZP73W6oGS">- Throw Your Doubts Here On Technical and Non-Technical Careers😄.</h3>
  
 # Cyber Security Blogs :
