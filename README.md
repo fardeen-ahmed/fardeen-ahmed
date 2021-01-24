@@ -1,5 +1,5 @@
 <a href="https://fardeen-ahmed.github.io/">
-  <img src="https://github.com/fardeen-ahmed/fardeen-ahmed/blob/main/1.gif" alt="1-gif" align="center" height="600" width="2000">
+  <img src="https://github.com/fardeen-ahmed/fardeen-ahmed/blob/main/1.gif" alt="1-gif" align="center" height="100" width="1000">
 </a> 
 
 # An Intro : 
