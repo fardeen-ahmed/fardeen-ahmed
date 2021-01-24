@@ -1,4 +1,4 @@
-# Get to know me 🤖 
+# Who Am I? 🤖 
 
 - 😎💻 Full-time Security Researcher.
 - 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
