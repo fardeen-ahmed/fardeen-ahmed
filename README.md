@@ -1,5 +1,7 @@
-# Who Am I? 🤖 
-
+<a href="#">
+  <img src="#" alt="1-gif" height="2000" width="600">
+</a> 
+# An Intro : 
 - 😎💻 Full-time Security Researcher.
 - 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
 - 🧑🏾‍💻 Curently System and Security Architect at Pikk.co
