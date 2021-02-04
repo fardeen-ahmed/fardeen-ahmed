@@ -3,7 +3,7 @@
 </a> 
 
 # An Intro : 
-- 😎💻 Full-time Red-Teamer.
+- 😎💻 Full-time Bug-Hunter.
 - 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
 - 🧑🏾‍💻 Curently Intern at Pikk.co
 - 🕵🏻‍♀️ Cyber Investigator, Trainer and Digital Forensic Consultant at <a href = "https://techagents.in/index.php/team1/">_The Cyber Agents._</a>
