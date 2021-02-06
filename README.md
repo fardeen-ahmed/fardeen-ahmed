@@ -3,7 +3,7 @@
 </a> 
 
 # An Intro : 
-- 😎💻 Full-time Bug-Hunter.
+- 😎💻 Full-time Bug-Hunter.      
 - 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
 - 🧑🏾‍💻 Curently Intern at Pikk.co
 - 🕵🏻‍♀️ Cyber Investigator, Trainer and Digital Forensic Consultant at <a href = "https://techagents.in/index.php/team1/">_The Cyber Agents._</a>
@@ -12,7 +12,7 @@
 - 🚴🏿 Cyclist.
 -  🇮🇳  Indian
  
-## Cyber Security Blogs :
+## Cyber Security Blogs :    
 
 <h5><a href="https://fardeenahmed410.medium.com/cyber-security-jobs-for-future-youth-45e921c669e6">- Cyber-Security: Jobs for Future Youth</a></h5>
 <h5><a href="https://fardeenahmed410.medium.com/languages-for-start-in-hacking-d504b3fad0a4">- Languages For Start in Hacking</a></h5>
