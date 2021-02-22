@@ -3,6 +3,7 @@
 </a> 
 
 # An Intro : 
+-  🇮🇳  Indian
 - 😎💻 Full-time Red-Teamer.      
 - 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
 - 🧑🏾‍💻 Curently Intern at Pikk.co
@@ -10,7 +11,6 @@
 - 👯 Article Writer and Blogger.
 - 🤵🏻 Public Speaker.<a href = "https://www.grimm-co.com/grimmcon-0x3-speakers">_(GRIMMC0n 0x3)_</a>
 - 🚴🏿 Cyclist.
--  🇮🇳  Indian
  
 ## Cyber Security Blogs :    
 
