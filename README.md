@@ -4,9 +4,8 @@
 
 # An Intro : 
 -  🇮🇳  Indian
-- 😎💻 Full-time Red-Teamer.      
+- 😎💻 Pentester
 - 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
-- 🧑🏾‍💻 Curently Open Intern at Pikk.co
 - 🕵🏻‍♀️ Cyber Investigator, Trainer and Digital Forensic Consultant at <a href = "https://techagents.in/index.php/team1/">_The Cyber Agents._</a>
 - 👯 Article Writer and Blogger.
 - 🤵🏻 Public Speaker.<a href = "https://www.grimm-co.com/grimmcon-0x3-speakers">_(GRIMMC0n 0x3)_</a>
