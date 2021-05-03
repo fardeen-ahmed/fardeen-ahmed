@@ -2,14 +2,7 @@
   <img src="https://github.com/fardeen-ahmed/fardeen-ahmed/blob/main/1.gif" alt="None" align="center" height="100" width="1000">
 </a> 
 
-# An Intro : 
--  🇮🇳  Indian
-- 😎💻 Pentester
-- 🌱 Open-Source Contributor and Hobbyist Coder ( C++, Python, BASH or any project that are interesting )
-- 🕵🏻‍♀️ Cyber Investigator, Trainer and Digital Forensic Consultant at <a href = "https://techagents.in/index.php/team1/">_The Cyber Agents._</a>
-- 👯 Article Writer and Blogger.
-- 🤵🏻 Public Speaker.<a href = "https://www.grimm-co.com/grimmcon-0x3-speakers">_(GRIMMC0n 0x3)_</a>
-- 🚴🏿 Cyclist.
+# Hey there, My name is Fardeen Ahmed, and I'm a Programmer and a Hacker...!!!
  
 ## Cyber Security Blogs :    
 
