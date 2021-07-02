@@ -2,7 +2,7 @@
   <img src="https://github.com/fardeen-ahmed/fardeen-ahmed/blob/main/1.gif" alt="None" align="center" height="100" width="1000">
 </a> 
 
-# This is Fardeen Ahmed. I'm a Programmer and a Hacker...!!!
+# This is Fardeen Ahmed. I'm a Security Researcher & Programmer...!!!
  
 ## Cyber Security Blogs :    
 
