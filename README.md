@@ -5,13 +5,6 @@
 <a href="https://github.com/fardeen-ahmed">
 <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
 </a>
-<a href="#">
-<img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower
-logo=read-the-docs">
-</a>
-<a href="https://github.com/fardeen-ahmed?tab=followers">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower
-color=green&logo=github">
 </a>
 <a href="#">
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
