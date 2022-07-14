@@ -21,7 +21,7 @@ color=green&logo=github">
 <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent
 output/generated/overview.svg" alt="macropower" align="right" />
 </a>
- - :office: &nbsp;I'm currently working at **[84.51Â°]**<br>
+- :office: &nbsp;I'm currently working at **[84.51Â°]**<br>
 - :seedling: &nbsp;Iâ€TMm currently learning **Go**<br>
 - :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**<br>
 - :mailbox: &nbsp;Ask me anything on my **[issues page]**<br>
