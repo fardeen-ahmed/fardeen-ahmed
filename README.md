@@ -14,11 +14,6 @@
 <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent
 output/generated/overview.svg" alt="macropower" align="right" />
 </a>
-- :office: &nbsp;I'm currently working at **[Honeywell]**<br>
-- :seedling: &nbsp;Iâ€TMm currently learning **Go**<br>
-- :speech_balloon: &nbsp;I like to talk about **Infosec, Offensive Security* and **Open-Source Contribution**<br>
-- :mailbox: &nbsp;Ask me anything on my **[Quora]**<br>
-- :computer: &nbsp;Connect with me on **[Linkedin]**<br>
  <br>
  <h2 align="left" id="macropower-tech">Favorite Tech</h2>
  > Tools, languages, and other things that I like to work with.
