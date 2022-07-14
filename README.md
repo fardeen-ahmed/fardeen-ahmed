@@ -10,10 +10,6 @@
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
 </a>
 </p>
- <a href="#">
-<img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent
-output/generated/overview.svg" alt="macropower" align="right" />
-</a>
  <br>
  <h2 align="left" id="macropower-tech">Favorite Tech</h2>
  > Tools, languages, and other things that I like to work with.
