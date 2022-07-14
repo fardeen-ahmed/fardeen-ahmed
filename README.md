@@ -9,6 +9,11 @@
 <a href="#">
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
 </a>
+- I work at Honeywell
+- I contribute over Github
+- I play retro and new games
+- I read books (Favorite till now : Ignited Minds by Dr. A.P.J Abdul Kalam)
+- I love long walks + long rides
 </p>
  <br>
  <h2 align="left" id="macropower-tech">Favorite Tech</h2>
