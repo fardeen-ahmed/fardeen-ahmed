@@ -140,21 +140,3 @@ icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
 </td>
 </tr>
 </table>
- <h2 align="left">Coding Activity</h2>
- > Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)
-(https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
- <!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
- ```
-  â”1⁄4â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â
-€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â
-€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â
-€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤ 
--7d -6d -5d -4d -3d -2d -1d now
-```
- <!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
- <!-- links -->
- [84.51Â°]: https://github.com/8451 "84.51Â° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/in/colvinjm "Jacob Colvin LinkedIn"
