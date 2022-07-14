@@ -9,14 +9,6 @@
 <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower
 logo=read-the-docs">
 </a>
-<a href="#">
-<img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange
-stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
-</a>
-<a href="#">
-<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined
-macropower?label=karma&logo=reddit">
-</a>
 <a href="https://github.com/fardeen-ahmed?tab=followers">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower
 color=green&logo=github">
