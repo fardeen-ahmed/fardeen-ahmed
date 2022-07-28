@@ -109,7 +109,6 @@ grafana_icon.svg" width="48" height="48" alt="Grafana" />
 <br>Grafana
 </td>
 </a>
-<br>Thanos
 </td>
 </tr>
 </table>
