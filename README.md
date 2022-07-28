@@ -14,7 +14,7 @@
 - I contribute over Github <br>
 - I play retro and new games<br>
 - I read books (Favorite till now : Ignited Minds by Dr. A.P.J Abdul Kalam)<br>
-- I love long walks + long rides<br>
+- I love long walks + long journey rides<br>
  <h2 align="left" id="macropower-tech">Favorite Tech</h2>
  > Tools, languages, and other things that I like to work with.
  <table>
