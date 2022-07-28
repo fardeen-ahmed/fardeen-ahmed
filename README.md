@@ -108,16 +108,6 @@ grafana_icon.svg" width="48" height="48" alt="Grafana" />
 </a>
 <br>Grafana
 </td>
-<td align="center" width="96"><a href="#macropower-tech" >
-<img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon
-color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-</a>
-<br>Prometheus
-</td>
-<td align="center" width="96">
-<a href="#macropower-tech" >
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos
-icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
 </a>
 <br>Thanos
 </td>
