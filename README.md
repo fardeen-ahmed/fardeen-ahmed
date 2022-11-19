@@ -10,10 +10,10 @@
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
 </a>
 </p>
-- I work at Honeywell <br>
+- I work at Bank Of America (previously at Honeywell) <br>
 - I contribute over Github <br>
 - I play retro and new games<br>
-- I read books (Favorite till now : Ignited Minds by Dr. A.P.J Abdul Kalam)<br>
+- I read books (Favorite till now : The 5 AM Club by Robbin Sharma)<br>
 - I love long walks + long journey rides<br>
  <h2 align="left" id="macropower-tech">Favorite Tech</h2>
  > Tools, languages, and other things that I like to work with.
