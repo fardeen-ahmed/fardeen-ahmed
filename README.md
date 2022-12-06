@@ -10,7 +10,7 @@
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
 </a>
 </p>
-- I work at Bank Of America (previously at Honeywell) <br>
+- I share blogs & writeups of Bug-Bounty and Security related news <br>
 - I contribute over Github <br>
 - I play retro and new games<br>
 - I read books (Favorite till now : The 5 AM Club by Robbin Sharma)<br>
