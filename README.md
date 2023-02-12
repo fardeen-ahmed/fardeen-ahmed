@@ -10,11 +10,11 @@
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
 </a>
 </p>
-- I share blogs & writeups of Bug-Bounty and Security related news <br>
+- I share blogs & writeups of Bug-Bounty and Information Security related news <br>
 - I contribute over Github <br>
 - I play retro and new games<br>
 - I read books (Favorite till now : The 5 AM Club by Robbin Sharma)<br>
-- I love long walks + long journey rides<br>
+- I love treks, long walks and relative long journey rides<br>
  <h2 align="left" id="macropower-tech">Favorite Tech</h2>
  > Tools, languages, and other things that I like to work with.
  <table>
