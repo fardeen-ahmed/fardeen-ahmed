@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hi , नमस्ते, سلام..! </h1>
 <h1 align="left" id="macropower-title">I'm Fardeen Ahmed</h1>
-<h3 align="left">I am a Security Researcher, Pen-Tester and Cod3r</h3>
+<h3 align="left">A Security Researcher, Pen-Tester and a Fun-Time Cod3r</h3>
  <p align="left">
 <a href="https://github.com/fardeen-ahmed">
 <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
