@@ -10,10 +10,10 @@
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
 </a>
 </p>
-- I share blogs & writeups of Bug-Bounty and Information Security related news <br>
+- I create blogs & writeups of Security research and Information Security <br>
+- I create digital content, consumed by pretty good number of people on social media <br>
 - I contribute over Github <br>
-- I play retro and new games<br>
-- I read books (Favorite till now : The 5 AM Club by Robbin Sharma)<br>
+- I read books (Favorite till now : Tha Alamanack of Naval Ravikant)<br>
 - I love treks, long walks and relative long journey rides<br>
  <h2 align="left" id="macropower-tech">Favorite Tech</h2>
  > Tools, languages, and other things that I like to work with.
