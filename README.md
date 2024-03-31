@@ -101,8 +101,7 @@
 </td>
 <td align="center" width="96">
 <a href="#macropower-tech" >
-<img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img
-grafana_icon.svg" width="48" height="48" alt="Grafana" />
+<img src="https://raw.githubusercontent.com/grafana/grafana/fa9e139123953244ae1430bcdb57efba5f1d103a/public/img/grafana_mask_icon.svg" width="48" height="48" alt="Grafana" />
 </a>
 <br>Grafana
 </td>
