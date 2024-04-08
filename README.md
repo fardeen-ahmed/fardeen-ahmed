@@ -75,6 +75,12 @@
 <br>Docker
 </td>
 <td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="48" height="48" alt="Insomnia" />
+</a>
+<br>Insomnia
+</td>
+<td align="center" width="96">
 <a href="#macropower-tech" >
 <img src="https://raw.githubusercontent.com/singaravelanaws/kubernetes-Icons/main/png/resources/unlabeled/pod-128.png" width="48" height="48" alt="Kubernetes"
 />
