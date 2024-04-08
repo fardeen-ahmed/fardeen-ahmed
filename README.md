@@ -1,4 +1,4 @@
-![image](https://github.com/fardeen-ahmed/fardeen-ahmed/assets/47289822/98918569-500a-4f65-8f98-a31f14364b2f)<h1 align="left" id="macropower-title">:wave: Hi , नमस्ते, سلام..! </h1>
+<h1 align="left" id="macropower-title">:wave: Hi , नमस्ते, سلام..! </h1>
 <h1 align="left" id="macropower-title">I'm Fardeen Ahmed</h1>
 <h3 align="left">An Indie Developer, Security engineer and an Ethical H4CK3R</h3>
  <p align="left">
