@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hi , नमस्ते, سلام..! </h1>
+![image](https://github.com/fardeen-ahmed/fardeen-ahmed/assets/47289822/98918569-500a-4f65-8f98-a31f14364b2f)<h1 align="left" id="macropower-title">:wave: Hi , नमस्ते, سلام..! </h1>
 <h1 align="left" id="macropower-title">I'm Fardeen Ahmed</h1>
 <h3 align="left">An Indie Developer, Security engineer and an Ethical H4CK3R</h3>
  <p align="left">
@@ -39,9 +39,9 @@
 </td>
 <td align="center" width="96">
 <a href="#macropower-tech">
-<img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet">
+<img src="https://i.stack.imgur.com/oEt2m.png" width="48" height="48" alt="Jasypt">  
 </a>
-<br>Jsonnet
+<br>Jasypt
 </td>
 <td align="center" width="96">
 <a href="#macropower-tech">
