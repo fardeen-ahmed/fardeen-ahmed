@@ -33,6 +33,12 @@
 </td>
 <td align="center" width="96">
 <a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+</a>
+<br>Java
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
 <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet">
 </a>
 <br>Jsonnet
