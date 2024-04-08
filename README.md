@@ -61,12 +61,6 @@
 </a>
 <br>Bootstrap
 </td>
-<td align="center" width="96">
-<a href="#macropower-tech">
-<img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-</a>
-<br>Sass</td>
-</tr>
 <tr>
 <td align="center" width="96"> 
 <a href="#macropower-tech" >
@@ -110,12 +104,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
 </a>
 <br>MySQL
-</td>
-<td align="center" width="96">
-<a href="#macropower-tech" >
-<img src="https://raw.githubusercontent.com/grafana/grafana/fa9e139123953244ae1430bcdb57efba5f1d103a/public/img/grafana_mask_icon.svg" width="48" height="48" alt="Grafana" />
-</a>
-<br>Grafana
 </td>
 </a>
 </td>
