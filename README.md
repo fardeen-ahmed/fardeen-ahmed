@@ -67,12 +67,6 @@
 </a>
 <br>Jenkins
 </td>
-<td align="center" width="96">
-<a href="#macropower-tech">
-<img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-</a>
-<br>Bootstrap
-</td>
 <tr>
 <td align="center" width="96"> 
 <a href="#macropower-tech" >
@@ -118,6 +112,12 @@
 <br>MySQL
 </td>
 </a>
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+</a>
+<br>Bootstrap
 </td>
 </tr>
 </table>
