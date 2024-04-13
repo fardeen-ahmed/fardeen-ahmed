@@ -57,6 +57,18 @@
 </td>
 <td align="center" width="96">
 <a href="#macropower-tech">
+<img src="https://raw.githubusercontent.com/ansible/logos/main/vscode-ansible-logo/vscode-ansible.png" width="48" height="48" alt="Ansible" />
+</a>
+<br>Ansible
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://www.jenkins.io/images/logos/automotive/automotive.png" width="48" height="48" alt="Jenkins" />
+</a>
+<br>Jenkins
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
 <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
 </a>
 <br>Bootstrap
