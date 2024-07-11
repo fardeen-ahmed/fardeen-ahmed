@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hi , नमस्ते, سلام..! </h1>
 <h1 align="left" id="macropower-title">I'm Fardeen Ahmed</h1>
-<h3 align="left">A N3rd doing his job, making things look more cooler and. accessible</h3>
+<h3 align="left">Software Engineer and Ethical H4CK3R</h3>
  <p align="left">
 <a href="https://github.com/fardeen-ahmed">
 <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
@@ -12,7 +12,7 @@
 </p>
 - I create blogs & writeups of Security Development, Security research and Information Security <br>
 - I create digital content, consumed by pretty good number of people on social media <br>
-- I contribute over Github, for sure <br>
+- I contribute over Github in free time<br>
 - I read books (Favorite till now : The Alamanack of Naval Ravikant)<br>
 - I love treks, long walks and relative long journey rides<br>
  <h2 align="left" id="macropower-tech">Favorite Tech</h2>
