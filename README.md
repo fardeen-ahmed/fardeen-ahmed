@@ -10,10 +10,10 @@
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
 </a>
 </p>
-- I create blogs & writeups over topics on secure development, Infosec Management and ethical H4CK1NG<br>
+- I write blogs & writeups over topics on secure development, Infosec Management and Ethical H4CK1NG<br>
 - I create digital content, consumed by pretty good number of people on social media <br>
 - I contribute over Github in free time<br>
-- I read books (Favorite till now : The Alamanack of Naval Ravikant)<br>
+- I read books and blogs<br>
 - I love treks, long walks and relative long journey rides<br>
  <h2 align="left" id="macropower-tech">Tech</h2>
  - Tools, languages, and other things that I've worked with <br>
