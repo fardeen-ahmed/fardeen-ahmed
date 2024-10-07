@@ -1,63 +1,123 @@
-<!-- Banner / Header Image -->
-![Banner](https://your-image-url.com)
-
-# Hi there 👋, I'm [Your Name]!
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
-[![Linkedin Badge](https://img.shields.io/badge/-yourname-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-link)](https://www.linkedin.com/in/your-link/)
-
-Welcome to my GitHub profile! I'm passionate about **[insert your field: cybersecurity, development, data science, etc.]** and love building projects that solve real-world problems. 
-
-## 🛠️ Skills & Tools
-
-- **Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-  
-- **Frameworks:**  
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-
-- **Tools & Platforms:**  
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-
-## 💼 Professional Experience
-
-- **[Company Name](https://company-link.com)**  
-  *Security Engineer | [Date - Present]*  
-  Focused on securing cloud infrastructure, penetration testing, and vulnerability management.
-  
-- **[Company Name](https://company-link.com)**  
-  *Software Engineer | [Date - Date]*  
-  Worked on web app development, microservices, and API integration.
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&exclude_repo=repo-name-1,repo-name-2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<h1 align="left" id="macropower-title">:wave: Hi , नमस्ते, سلام..! </h1>
+<h1 align="left" id="macropower-title">I'm Fardeen Ahmed</h1>
+<h3 align="left">Secure Software Engineer, and a Bug-Bounty Hunter</h3>
+ <p align="left">
+<a href="https://github.com/fardeen-ahmed">
+<img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+</a>
+</a>
+<a href="#">
+<img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+</a>
 </p>
-
-## 🚀 Projects
-
-Here are some of the notable projects I’ve worked on:
-
-- **[Project 1](https://github.com/your-username/project-1)**: A brief description of what this project does, tech stack used, and its purpose.
-- **[Project 2](https://github.com/your-username/project-2)**: Another description with key features and highlights of this project.
-- **[Project 3](https://github.com/your-username/project-3)**: What problem it solves and any interesting insights into development.
-
-## 📧 Get in Touch
-
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-link/)
-- **Twitter:** [Your Twitter](https://twitter.com/your-twitter-handle)
-
-Let's collaborate or have a chat about **open-source**, **cybersecurity**, **development**, or **AI**!
-
-## 🔥 Fun Facts
-
-- 🔐 I love breaking and fixing things in **cybersecurity**.
-- 🎨 I also enjoy working on creative projects like **UI/UX design**.
-
----
-
-⭐️ From [Your GitHub Username](https://github.com/your-username)
+- I write blogs & writeups over topics on secure development, Infosec Management and Ethical H4CK1NG<br>
+- I create digital content, consumed by pretty good number of people on social media <br>
+- I contribute over Github in free time<br>
+- I read books and blogs<br>
+- I love treks, long walks and relative long journey rides<br>
+ <h2 align="left" id="macropower-tech">Tech</h2>
+ - Tools, languages, and other things that I've worked with <br>
+ <table>
+<tr>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+</a>
+<br>Python
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+</a>
+<br>Go
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+</a>
+<br>Java
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://i.stack.imgur.com/oEt2m.png" width="48" height="48" alt="Jasypt">  
+</a>
+<br>Jasypt
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+</a>
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech" >
+<img src="./img/react-original.svg" width="48" height="48" alt="React" />
+</a>
+<br>React
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://raw.githubusercontent.com/ansible/logos/main/vscode-ansible-logo/vscode-ansible.png" width="48" height="48" alt="Ansible" />
+</a>
+<br>Ansible
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://www.jenkins.io/images/logos/automotive/automotive.png" width="48" height="48" alt="Jenkins" />
+</a>
+<br>Jenkins
+</td>
+<tr>
+<td align="center" width="96"> 
+<a href="#macropower-tech" >
+<img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+</a>
+<br>Docker
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="48" height="48" alt="Insomnia" />
+</a>
+<br>Insomnia
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech" >
+<img src="https://raw.githubusercontent.com/singaravelanaws/kubernetes-Icons/main/png/resources/unlabeled/pod-128.png" width="48" height="48" alt="Kubernetes"
+/>
+</a>
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+</a>
+<br>Debian
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+</a>
+<br>RHEL
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://raw.githubusercontent.com/devblackops/Terminal-Icons/main/media/icon_256.png" width="48" height="48" alt="Powershell" />
+</a>
+<br>Powershell
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+</a>
+<br>MySQL
+</td>
+</a>
+</td>
+<td align="center" width="96">
+<a href="#macropower-tech">
+<img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+</a>
+<br>Bootstrap
+</td>
+</tr>
+</table>
