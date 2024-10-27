@@ -6,8 +6,6 @@
 <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
 </a>
 
-![Fardeen-Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=fardeen-ahmed&show_icons=true&theme=radical)
-
 </a>
 <a href="#">
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
@@ -124,3 +122,4 @@
 </td>
 </tr>
 </table>
+![Fardeen-Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=fardeen-ahmed&show_icons=true&theme=radical)
