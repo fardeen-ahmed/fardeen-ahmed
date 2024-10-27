@@ -5,6 +5,10 @@
 <a href="https://github.com/fardeen-ahmed">
 <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
 </a>
+   ### 📈 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
 </a>
 <a href="#">
 <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
