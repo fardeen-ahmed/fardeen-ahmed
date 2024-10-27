@@ -122,4 +122,4 @@
 </td>
 </tr>
 </table>
-![Fardeen-Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=fardeen-ahmed&show_icons=true&theme=radical)
+[Fardeen-Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=fardeen-ahmed&show_icons=true&theme=radical)
