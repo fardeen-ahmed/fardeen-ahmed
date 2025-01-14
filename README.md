@@ -22,7 +22,7 @@
 -These are some of the tech that I've fworked on till date, and still upskilling myself
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,Java,Jasypt,Javascript,React,Ansible,Jenkins,Docker,Insomnia,kubernetes,docker,vim,debian,rhel,Powershell,mysql,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,go,java,jasypt,javascript,react,ansible,jenkins,docker,insomnia,kubernetes,docker,vim,debian,rhel,Powershell,mysql,bootstrap" />
   </a>
 </p>
 
