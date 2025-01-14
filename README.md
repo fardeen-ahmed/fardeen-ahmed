@@ -19,9 +19,10 @@
 - I read books and blogs<br>
 - I love treks, long walks and relative long journey rides<br>
  <h2 align="left" id="macropower-tech">Tech</h2>
+-These are some of the tech that I've fworked on till date, and still upskilling myself
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=python,go,Java,Jasypt,Javascript,React,Ansible,Jenkins,Docker,Insomnia,kubernetes,docker,vim,debian,rhel,Powershell,mysql,bootstrap" />
   </a>
 </p>
 
