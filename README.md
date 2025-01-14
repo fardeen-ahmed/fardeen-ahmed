@@ -6,6 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
 </a>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ![Fardeen-Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=fardeen-ahmed&show_icons=true&theme=radical)
 
 </a>
@@ -21,7 +23,6 @@
  <h2 align="left" id="macropower-tech">Tech</h2>
  - Tools, languages, and other things that I've worked with <br>
  <table>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <tr>
 <td align="center" width="96">
 <a href="#macropower-tech">
