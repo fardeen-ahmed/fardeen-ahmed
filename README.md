@@ -17,7 +17,7 @@
 - I create digital content, consumed by pretty good number of people on social media <br>
 - I contribute over Github in free time<br>
 - I read books and blogs<br>
-- I love treks, long walks and relative long journey rides<br>
+- I love treks, long walks and relative long journey rides
  <h2 align="left" id="macropower-tech">Tech</h2>
 -These are some of the tech that I've worked on till date, and still upskilling myself
 <p align="left">
