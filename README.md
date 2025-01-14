@@ -19,7 +19,7 @@
 - I read books and blogs<br>
 - I love treks, long walks and relative long journey rides<br>
  <h2 align="left" id="macropower-tech">Tech</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
