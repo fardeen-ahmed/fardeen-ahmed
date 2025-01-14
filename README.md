@@ -21,6 +21,7 @@
  <h2 align="left" id="macropower-tech">Tech</h2>
  - Tools, languages, and other things that I've worked with <br>
  <table>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <tr>
 <td align="center" width="96">
 <a href="#macropower-tech">
