@@ -19,7 +19,7 @@
 - I read books and blogs<br>
 - I love treks, long walks and relative long journey rides
  <h2 align="left" id="macropower-tech">Tech</h2>
--These are some of the tech that I've worked on till date, and still upskilling myself
+- These are some of the tech that I've worked on till date, and still upskilling myself
 <p align="left">
   <a href="https://skillicons.dev">
     <br>
